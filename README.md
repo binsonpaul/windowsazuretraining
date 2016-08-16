@@ -1,0 +1,2 @@
+# windowsazuretraining
+Windows Azure Training
